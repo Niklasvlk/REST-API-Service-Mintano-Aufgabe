@@ -1,0 +1,11 @@
+# Go
+bin/
+*.exe
+*.out
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Dependency / Modules
+vendor/
